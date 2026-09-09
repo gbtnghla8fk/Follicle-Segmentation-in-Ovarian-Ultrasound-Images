@@ -23,5 +23,3 @@ Used the following to complete the project:
 
 Random photos were selected and used from a publicly available dataset cited below:
 A, Indirani (2024). PCOS Dataset. figshare. Dataset. https://doi.org/10.6084/m9.figshare.27682557.v1
-
-Random photos were selected and used from a publicly available dataset cited below: A, Indirani (2024). PCOS Dataset. figshare. Dataset. https://doi.org/10.6084/m9.figshare.27682557.v1
