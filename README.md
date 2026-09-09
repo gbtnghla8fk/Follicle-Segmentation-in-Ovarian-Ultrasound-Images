@@ -1,6 +1,4 @@
-# LBYEC2B-Final-Project
-Image Processing for PCOS Follicles through MATLAB
-
+# Segmentation for PCOS Follicles through MATLAB
 Used the following to complete the project:
 
 1. Preprocessing and Normalization
